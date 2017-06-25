@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{collet2016generation}
+M.~Collet, X.~De~Milly, O.~d. Kelly, V.~V. Naletov, R.~Bernard, P.~Bortolotti,
+  J.~B. Youssef, V.~Demidov, S.~Demokritov, J.~Prieto, et~al., Generation of
+  coherent spin-wave modes in yttrium iron garnet microdiscs by spin-orbit
+  torque, Nature communications 7.
+
+\bibitem{tserkovnyak2002spin}
+Y.~Tserkovnyak, A.~Brataas, G.~E. Bauer, Spin pumping and magnetization
+  dynamics in metallic multilayers, Physical Review B 66~(22) (2002) 224403.
+
+\bibitem{johnson1987thermodynamic}
+M.~Johnson, R.~Silsbee, Thermodynamic analysis of interfacial transport and of
+  the thermomagnetoelectric system, Physical Review B 35~(10) (1987) 4959.
+
+\bibitem{basso2016nonequilibrium}
+V.~Basso, E.~Ferraro, A.~Magni, A.~Sola, M.~Kuepferling, M.~Pasquale,
+  Nonequilibrium thermodynamics of the spin seebeck and spin peltier effects,
+  Physical Review B 93~(18) (2016) 184421.
+
+\bibitem{basso2016thermodynamic}
+V.~Basso, E.~Ferraro, M.~Piazzi, Thermodynamic transport theory of spin waves
+  in ferromagnetic insulators, Physical Review B 94~(14) (2016) 144422.
+
+\end{thebibliography}

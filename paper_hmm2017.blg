@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper_hmm2017.aux
+The style file: elsarticle-num.bst
+Database file #1: bibpaper.bib
+Warning--I didn't find a database entry for "SECT:ADIFF"
+You've used 5 entries,
+            2937 wiz_defined-function locations,
+            705 strings with 6190 characters,
+and the built_in function-call counts, 1498 in all, are:
+= -- 122
+> -- 80
+< -- 0
++ -- 30
+- -- 25
+* -- 120
+:= -- 247
+add.period$ -- 5
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 38
+empty$ -- 144
+format.name$ -- 30
+if$ -- 361
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 23
+num.names$ -- 5
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 86
+stack$ -- 0
+substring$ -- 66
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 6
+write$ -- 47
+(There was 1 warning)
